@@ -293,8 +293,7 @@ img {
 }
 /*===== OFFER =====*/
 .offer__bg{
-  /*background: url('/assets/img/offer.JPG') no-repeat center/cover;*/
-  background-color: var(--gray-color);
+  background: url('/assets/img/offer.JPG') no-repeat center/cover;
   text-align: center;
 }
 
